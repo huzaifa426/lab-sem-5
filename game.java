@@ -10,7 +10,7 @@ public class game
 
     		Scanner input=new Scanner(System.in);
 
-    		System.out.println("Input 1: ");
+    		
     		float numl=input.nextFloat();
     		System.out.println("Input 2: ");
 
